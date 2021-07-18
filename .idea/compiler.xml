@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sb-coast-async" />
+        <module name="sb-coast-mybatis" />
+        <module name="sc-coast-arch" />
+        <module name="sb-coast-redis" />
+        <module name="eureka-client" />
+        <module name="config-client" />
+        <module name="service-feign" />
+        <module name="eureka-server" />
+        <module name="sb-coast-rabbitmq" />
+        <module name="server-config" />
+        <module name="service-ribbon" />
+        <module name="sb-coast-fileupload" />
+        <module name="service-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="client-config" target="1.5" />
+      <module name="config-client" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="sb-coast" target="1.8" />
+      <module name="sb-coast-async" target="1.8" />
+      <module name="sb-coast-fileupload" target="1.8" />
+      <module name="sb-coast-mybatis" target="1.8" />
+      <module name="sb-coast-rabbitmq" target="1.8" />
+      <module name="sb-coast-redis" target="1.8" />
+      <module name="sc-coast-arch" target="1.8" />
+      <module name="sc-coast-eureka" target="1.8" />
+      <module name="server-config" target="1.8" />
+      <module name="service-feign" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="client-config" options="-parameters" />
+      <module name="config-client" options="-parameters" />
+      <module name="eureka-client" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="sb-coast-async" options="-parameters" />
+      <module name="sb-coast-fileupload" options="-parameters" />
+      <module name="sb-coast-mybatis" options="-parameters" />
+      <module name="sb-coast-rabbitmq" options="-parameters" />
+      <module name="sb-coast-redis" options="-parameters" />
+      <module name="sc-coast-arch" options="-parameters" />
+      <module name="sc-coast-eureka" options="-parameters" />
+      <module name="server-config" options="-parameters" />
+      <module name="service-feign" options="-parameters" />
+      <module name="service-ribbon" options="-parameters" />
+      <module name="service-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

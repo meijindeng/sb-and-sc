@@ -1,0 +1,9 @@
+#Rabbitmq配置
+spring:
+  rabbitmq:
+    password: guest
+    publisher-confirms: true
+    queue: seckill
+    username: guest
+    #virtual-host: /vh_test
+    addresses: 192.168.56.200:5672

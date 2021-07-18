@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sc-coast-eureka/config-client/config-client.iml" filepath="$PROJECT_DIR$/sc-coast-eureka/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-coast-eureka/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/sc-coast-eureka/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-coast-eureka/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/sc-coast-eureka/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-coast.iml" filepath="$PROJECT_DIR$/sb-coast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-coast-async/sb-coast-async.iml" filepath="$PROJECT_DIR$/sb-coast-async/sb-coast-async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-coast-fileupload/sb-coast-fileupload.iml" filepath="$PROJECT_DIR$/sb-coast-fileupload/sb-coast-fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-coast-mybatis/sb-coast-mybatis.iml" filepath="$PROJECT_DIR$/sb-coast-mybatis/sb-coast-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-coast-rabbitmq/sb-coast-rabbitmq.iml" filepath="$PROJECT_DIR$/sb-coast-rabbitmq/sb-coast-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-coast-redis/sb-coast-redis.iml" filepath="$PROJECT_DIR$/sb-coast-redis/sb-coast-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-coast-arch/sc-coast-arch.iml" filepath="$PROJECT_DIR$/sc-coast-arch/sc-coast-arch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-coast-eureka/sc-coast-eureka.iml" filepath="$PROJECT_DIR$/sc-coast-eureka/sc-coast-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-coast-eureka/server-config/server-config.iml" filepath="$PROJECT_DIR$/sc-coast-eureka/server-config/server-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-coast-eureka/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/sc-coast-eureka/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-coast-eureka/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/sc-coast-eureka/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-coast-eureka/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/sc-coast-eureka/service-zuul/service-zuul.iml" />
+    </modules>
+  </component>
+</project>
