@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/sc-coast-eureka/config-client/config-client.iml" filepath="$PROJECT_DIR$/sc-coast-eureka/config-client/config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-coast-eureka/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/sc-coast-eureka/eureka-client/eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/sc-coast-eureka/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/sc-coast-eureka/eureka-server/eureka-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sb-coast.iml" filepath="$PROJECT_DIR$/sb-coast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb-and-sc.iml" filepath="$PROJECT_DIR$/sb-and-sc.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-coast-async/sb-coast-async.iml" filepath="$PROJECT_DIR$/sb-coast-async/sb-coast-async.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-coast-fileupload/sb-coast-fileupload.iml" filepath="$PROJECT_DIR$/sb-coast-fileupload/sb-coast-fileupload.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb-coast-mybatis/sb-coast-mybatis.iml" filepath="$PROJECT_DIR$/sb-coast-mybatis/sb-coast-mybatis.iml" />

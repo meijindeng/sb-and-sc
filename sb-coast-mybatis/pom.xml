@@ -5,7 +5,7 @@
     <!--依赖父项目-->
     <parent>
         <groupId>com.coast.demo</groupId>
-        <artifactId>sb-coast</artifactId>
+        <artifactId>sb-and-sc</artifactId>
         <version>0.0.1-SNAPSHOT</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>

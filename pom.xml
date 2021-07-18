@@ -10,9 +10,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.coast.demo</groupId>
-    <artifactId>sb-coast</artifactId>
+    <artifactId>sb-and-sc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sb-coast</name>
+    <name>sb-and-sc</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
@@ -31,7 +31,6 @@
         <module>sc-coast-eureka</module>
         <module>sc-coast-arch</module>
         <module>sb-coast-async</module>
-        <module>sc-coast-eureka/client-config</module>
         <module>sc-coast-eureka/config-client</module>
     </modules>
 

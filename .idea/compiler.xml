@@ -12,13 +12,13 @@
         <module name="sc-coast-arch" />
         <module name="sb-coast-redis" />
         <module name="eureka-client" />
-        <module name="config-client" />
+        <module name="sb-coast-fileupload" />
         <module name="service-feign" />
         <module name="eureka-server" />
         <module name="sb-coast-rabbitmq" />
         <module name="server-config" />
         <module name="service-ribbon" />
-        <module name="sb-coast-fileupload" />
+        <module name="config-client" />
         <module name="service-zuul" />
       </profile>
     </annotationProcessing>
@@ -27,7 +27,7 @@
       <module name="config-client" target="1.8" />
       <module name="eureka-client" target="1.8" />
       <module name="eureka-server" target="1.8" />
-      <module name="sb-coast" target="1.8" />
+      <module name="sb-and-sc" target="1.8" />
       <module name="sb-coast-async" target="1.8" />
       <module name="sb-coast-fileupload" target="1.8" />
       <module name="sb-coast-mybatis" target="1.8" />
